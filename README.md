@@ -11,6 +11,8 @@ This project consists of two main parts: the code and a report on the project in
 * glob
 * matplotlib
 * IPython
+* tensorflow
+* numpy
 
 Install missing dependencies with [pip](https://pip.pypa.io/en/stable/). 
 
